@@ -5,5 +5,5 @@ Small python project for probabilistically generating noise images using the pyt
 
 Examples:
 
-![Example1](./noise0.jpg)
-![Example2](./noise1.jpg)
+![Example1](https://imgur.com/eyLptOM)
+![Example2](https://imgur.com/AOgOkm5)
